@@ -1,2 +1,1 @@
-# my-terrform-learning
-My awesome codebase
+# this repo is for learning
